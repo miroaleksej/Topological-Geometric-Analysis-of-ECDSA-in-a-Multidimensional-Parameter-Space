@@ -1,5 +1,4 @@
-```markdown
-# Cryptographic Topology Research Suite
+### Cryptographic Topology Research Suite
 
 This repository hosts two interconnected research papers exploring the geometric and topological foundations of modern cryptography:
 
