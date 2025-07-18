@@ -47,6 +47,8 @@ pip install -r requirements.txt
 
 ## 💻 Usage Examples
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d33da1e6-ffe4-4d0a-9ceb-253571c682c1" />
+
 ### Generate Topologically-Secure Signature
 ```python
 from hardened_ecdsa import hardened_sign
