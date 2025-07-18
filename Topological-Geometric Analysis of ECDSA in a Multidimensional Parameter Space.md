@@ -58,6 +58,8 @@ def generate_signature(u_r, u_z, Q, G, n):
 ---
 
 ### 3. Topological Model of the 5D Hypercube  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b7f027ac-fc89-4474-ae84-fb31a212954d" />
+
 #### 3.1. Fundamental Axioms  
 Consider the 5D space $\mathcal{P} = (r, s, z, k, d)$ with equation:  
 $$s \cdot k \equiv z + r \cdot d \pmod{n} \quad (1)$$
