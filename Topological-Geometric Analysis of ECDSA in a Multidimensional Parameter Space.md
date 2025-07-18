@@ -1,4 +1,4 @@
-**Research Paper: "Topological-Geometric Analysis of ECDSA in a Multidimensional Parameter Space"**  
+### **"Topological-Geometric Analysis of ECDSA in a Multidimensional Parameter Space"**  
 **Structure:**  
 1. Introduction  
 2. Bijective Parameterization of the Signature Space  
