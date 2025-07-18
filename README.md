@@ -192,7 +192,7 @@ report = tqa.generate_security_report(vulnerable_txs)
 
 ## 🚀 Why We Need a Mac Studio M4 Ultra
 
-To advance our research, we need the extraordinary computational power of the **Mac Studio M4 Ultra** with:
+To advance our research, we need the extraordinary computational power of the **Mac Studio M4 Max** with:
 
 - **128GB Unified Memory** - For massive quantum circuit simulations
 - **2TB SSD Storage** - To process blockchain datasets (1TB+)
@@ -210,7 +210,7 @@ We're transparent about our budget:
 
 | Component | Cost | Notes |
 |-----------|------|-------|
-| Mac Studio M4 Ultra | $6,499 | 128GB RAM, 2TB SSD |
+| Mac Studio M4 Max | $6,499 | 128GB RAM, 2TB SSD |
 | High-Performance Cooling | $850 | For sustained computation |
 | Quantum Development Tools | $1,000 | Specialized software licenses |
 | Research Publications | $151 | Open-access journal fees |
