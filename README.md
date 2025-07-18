@@ -74,6 +74,8 @@ ___
 
 ### 💖 Support & Usage
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/68f1be10-c20b-4398-afef-038a37883a62" />
+
 # QuantumTopo Research Fundraiser
 
 ## Help Us Unlock the Future of Cryptographic Security
