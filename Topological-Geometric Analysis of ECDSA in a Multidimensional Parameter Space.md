@@ -96,9 +96,7 @@ plt.show()
 ### 4. Cryptanalytic Methods  
 #### 4.1. Nonce Reuse Attack  
 **Theorem 4.** For two signatures $\sigma_1=(r,s_1,z_1)$, $\sigma_2=(r,s_2,z_2)$:  
-$$
-d = (s_1 - s_2)^{-1}(z_1 - z_2) \cdot r^{-1} \mod n
-$$
+$$d = (s_1 - s_2)^{-1}(z_1 - z_2) \cdot r^{-1} \mod n$$
 *Proof:*  
 - Subtracting ECDSA equations: $(s_1 - s_2)k \equiv z_1 - z_2$  
 - Solve for $k$ and substitute  
