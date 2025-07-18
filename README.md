@@ -144,6 +144,17 @@ private_key = nonce_attack(sig1, sig2, curve.n)
 
 ## 📜 License
 MIT License - Free for academic/research use. Commercial use requires permission.
+___
+
+## 💖 Support & Usage
+
+Scan the QR code below if you'd like to:
+*   **Support our project** 🚀
+*   **Use our developed systems** 🤝
+
+[![QR Code - Support or Use Systems](path/to/your/qrcode.png)](https://your.link.here)
+
+<img width="212" height="212" alt="image" src="https://github.com/user-attachments/assets/9d40a983-67fb-4df6-a80e-d1e1ddd96e2d" />
 
 ---
 **Connect**: 
