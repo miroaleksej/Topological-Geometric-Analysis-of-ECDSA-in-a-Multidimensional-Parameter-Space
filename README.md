@@ -141,6 +141,7 @@ MIT License - Free for academic/research use. Commercial use requires permission
 
 ---
 **Connect**: 
--[e-mail](miro-aleksej@yandex.ru)
+-[e-mail] miro-aleksej@yandex.ru
+
 **Tags**:  
 #Cryptography #Topology #BlockchainSecurity #ECDSA #EllipticCurves #CyberSecurity #Mathematics #ZeroTrust #CryptoAnalysis #QuantumResistance
