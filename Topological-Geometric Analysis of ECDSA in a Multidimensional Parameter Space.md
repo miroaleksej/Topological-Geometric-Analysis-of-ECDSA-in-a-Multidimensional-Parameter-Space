@@ -29,7 +29,11 @@
 **Definition 1.** For a signature $\sigma = (r,s)$ of message $m$ with hash $z$:  
 $$u_r \equiv r \cdot s^{-1} \mod n, \quad u_z \equiv z \cdot s^{-1} \mod n$$
 
-**Theorem 1 (Bijectivity of $\phi$).** The mapping $\phi: \sigma \mapsto (u_r,u_z)$ satisfies:  
+**Theorem 1 (Bijectivity of $\phi$).** 
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/77a484a5-ec30-4891-a936-398af88eca00" />
+
+The mapping $\phi: \sigma \mapsto (u_r,u_z)$ satisfies:  
 1. **Surjectivity**: $\forall (u_r,u_z) \in \mathbb{F}_n^2$ $\exists$ valid signature $\sigma$  
    *Proof:*  
    - Compute $R = u_r Q + u_z G$  
