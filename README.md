@@ -1,4 +1,4 @@
-#### Cryptographic Topology Research Suite
+# Cryptographic Topology Research Suite
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/636f05f9-cdcd-4ced-9541-659301e76ecb" />
 
