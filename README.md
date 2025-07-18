@@ -18,7 +18,8 @@ This research establishes a novel topological framework for ECDSA analysis, prov
 3. **5D torus structure** of ECDSA solutions 𝕊¹ × 𝕊¹ (Theorem 3)
 4. **Cryptanalytic methods** exploiting these properties with 100% success in experiments
 
-![Torus Visualization](https://i.imgur.com/EDvG2fF.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d1a85ec5-6ead-4171-ae43-2a88deae56d1" />
+
 
 ## 🧩 Key Features
 - **Bijective mapping** between signatures and (uᵣ, u_z) space
