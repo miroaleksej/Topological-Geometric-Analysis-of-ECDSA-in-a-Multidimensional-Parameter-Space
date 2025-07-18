@@ -4,7 +4,7 @@ This repository hosts two interconnected research papers exploring the geometric
 
 ## 📄 Publications
 
-### 1. [Topological-Geometric Analysis of ECDSA in Multidimensional Parameter Space](topology_ecdsa_analysis.md)
+### 1. [Topological-Geometric Analysis of ECDSA in Multidimensional Parameter Space]([topology_ecdsa_analysis.md](https://github.com/miroaleksej/Topological-Geometric-Analysis-of-ECDSA-in-a-Multidimensional-Parameter-Space/blob/main/1.%20Topological-Geometric%20Analysis%20of%20ECDSA%20in%20a%20Multidimensional%20Parameter%20Space.md)
 - **Core Contributions**:
   - Bijective parametrization of ECDSA signature space using $(u_r, u_z)$ coordinates
   - 5D hypercube topological model showing ECDSA solutions form a torus $\mathbb{S}^1 \times \mathbb{S}^1$
