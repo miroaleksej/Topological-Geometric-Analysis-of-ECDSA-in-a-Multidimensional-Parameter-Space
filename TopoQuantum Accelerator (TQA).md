@@ -15,9 +15,7 @@ The accelerator employs **Variational Quantum Algorithms (VQA)** to search for s
 
 - **Problem Hamiltonian**:  
   For ECDSA, an operator is defined where the minimal eigenvalue corresponds to the solution:  
-  $$
-  \hat{H}_{\text{ECDSA}} = \sum_i \left( s_i \hat{k}_i - \hat{z}_i - r_i \hat{d} \right)^2
-  $$  
+  $$\hat{H}_{\text{ECDSA}} = \sum_i \left( s_i \hat{k}_i - \hat{z}_i - r_i \hat{d} \right)^2$$  
   where $\hat{k}, \hat{d}$ are quantum registers.  
 
 ---
@@ -56,9 +54,7 @@ graph TB
 
 3. **Topological Decoder**:  
    Converts quantum measurements into points $(k, d)$ via projection onto a torus $\mathbb{S}^1 \times \mathbb{S}^1$:  
-   $$
-   d = \frac{n}{2\pi} \arg\left( \sum e^{i \cdot 2\pi \hat{d}/n} \right)
-   $$  
+   $$d = \frac{n}{2\pi} \arg\left( \sum e^{i \cdot 2\pi \hat{d}/n} \right)$$  
 
 ---
 
@@ -87,17 +83,13 @@ graph TB
 **A. Schnorr Scheme**:  
 - Equation: $s = k + H(R||m)d$  
 - Hamiltonian:  
-  $$
-  \hat{H}_{\text{Schnorr}} = \sum_i \left( \hat{s}_i - \hat{k}_i - H(\hat{R}_i||m_i) \hat{d} \right)^2
-  $$  
+  $$\hat{H}_{\text{Schnorr}} = \sum_i \left( \hat{s}_i - \hat{k}_i - H(\hat{R}_i||m_i) \hat{d} \right)^2$$  
 
 **B. RSA (Factorization)**:  
 - Task: Find $p,q$ such that $N = pq$  
 - Topology: Divisor space with metric $g(p,q) = |N - pq|$  
 - Hamiltonian:  
-  $$
-  \hat{H}_{\text{RSA}} = (N - \hat{p} \hat{q})^2 + \Gamma (\hat{p} + \hat{q} - \sqrt{N})^2
-  $$  
+  $$\hat{H}_{\text{RSA}} = (N - \hat{p} \hat{q})^2 + \Gamma (\hat{p} + \hat{q} - \sqrt{N})^2$$  
 
 **C. Post-Quantum Schemes (McEliece)**:  
 - Syndrome Decoding: $\hat{H} = (\mathbf{s} - \mathbf{e} \mathbf{H}^T)^2$  
