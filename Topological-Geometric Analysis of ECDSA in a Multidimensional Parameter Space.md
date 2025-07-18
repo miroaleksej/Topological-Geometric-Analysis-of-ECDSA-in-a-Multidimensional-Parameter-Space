@@ -1,4 +1,7 @@
 ### **"Topological-Geometric Analysis of ECDSA in a Multidimensional Parameter Space"**  
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa0b62eb-b075-4e1c-892a-432945d50c25" />
+
 **Structure:**  
 1. Introduction  
 2. Bijective Parameterization of the Signature Space  
