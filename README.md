@@ -1,4 +1,7 @@
-# Topological-Geometric Analysis of ECDSA in a Multidimensional Parameter Space ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ecdsa-topology/ecdsa-topology&count_bg=%2300C853&title_bg=%23555555&icon=git.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
+# Topological-Geometric Analysis of ECDSA in a Multidimensional Parameter Space 
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/45132c6e-5424-4f0b-ba16-1b1c5a4f6227" />
+
 
 **Groundbreaking research revealing hidden geometric vulnerabilities in ECDSA**  
 *"We prove ECDSA signatures form a 5D torus where private keys leak through gradient topology"*
