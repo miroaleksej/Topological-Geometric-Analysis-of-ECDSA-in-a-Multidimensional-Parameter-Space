@@ -15,7 +15,7 @@ This repository hosts two interconnected research papers exploring the geometric
   - Key recovery with zero error using gradient method
   - Logarithmic dependence $L(d) \sim 2.71\ln d$ for solution curve length
 
-### 2. [General Theory of Cryptographic Manifolds](cryptographic_manifolds_theory.md)
+### 2. [General Theory of Cryptographic Manifolds](https://github.com/miroaleksej/Topological-Geometric-Analysis-of-ECDSA-in-a-Multidimensional-Parameter-Space/blob/main/2.%20General%20Theory%20of%20Cryptographic%20Manifolds%20(CTM).md)
 - **Foundational Framework**:
   - Unified model: $(\mathcal{M}, \nabla, \mathcal{S})$ triples for cryptographic schemes
   - Security invariant $\mathcal{I}(\mathcal{M})$ combining curvature, homology, and boundary terms
