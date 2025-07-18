@@ -2,6 +2,8 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/636f05f9-cdcd-4ced-9541-659301e76ecb" />
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourrepo&label=Visitors&countColor=%23263759)
+
 This repository hosts two interconnected research papers exploring the geometric and topological foundations of modern cryptography:
 
 ## 📄 Publications
