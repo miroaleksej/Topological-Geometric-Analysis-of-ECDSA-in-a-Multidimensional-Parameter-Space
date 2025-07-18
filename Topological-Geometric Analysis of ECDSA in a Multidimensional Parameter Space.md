@@ -27,9 +27,7 @@
 
 ### 2. Bijective Parameterization of the Signature Space  
 **Definition 1.** For a signature $\sigma = (r,s)$ of message $m$ with hash $z$:  
-$$
-u_r \equiv r \cdot s^{-1} \mod n, \quad u_z \equiv z \cdot s^{-1} \mod n
-$$
+$$u_r \equiv r \cdot s^{-1} \mod n, \quad u_z \equiv z \cdot s^{-1} \mod n$$
 
 **Theorem 1 (Bijectivity of $\phi$).** The mapping $\phi: \sigma \mapsto (u_r,u_z)$ satisfies:  
 1. **Surjectivity**: $\forall (u_r,u_z) \in \mathbb{F}_n^2$ $\exists$ valid signature $\sigma$  
