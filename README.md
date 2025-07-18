@@ -2,10 +2,8 @@
 
 ___
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![SageMath](https://img.shields.io/badge/SageMath-9.0%2B-orange)](https://www.sagemath.org/)
-
+## Статистика посещаемости
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourrepo&label=Visitors&countColor=%23263759)
 ___
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/45132c6e-5424-4f0b-ba16-1b1c5a4f6227" />
