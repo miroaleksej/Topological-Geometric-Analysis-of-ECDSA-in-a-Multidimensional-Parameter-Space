@@ -2,8 +2,7 @@
 
 ___
 
-## Статистика посещаемости
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourrepo&label=Visitors&countColor=%23263759)
+(https://api.visitorbadge.io/api/visitors?path=https://github.com/yourrepo&label=Visitors&countColor=%23263759)
 ___
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/45132c6e-5424-4f0b-ba16-1b1c5a4f6227" />
