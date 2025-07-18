@@ -56,14 +56,10 @@ def generate_signature(u_r, u_z, Q, G, n):
 ### 3. Topological Model of the 5D Hypercube  
 #### 3.1. Fundamental Axioms  
 Consider the 5D space $\mathcal{P} = (r, s, z, k, d)$ with equation:  
-$$
-s \cdot k \equiv z + r \cdot d \pmod{n} \quad (1)
-$$
+$$s \cdot k \equiv z + r \cdot d \pmod{n} \quad (1)$$
 
 **Theorem 2 (Gradient Disclosure of $d$).** For the function $r(u_r,u_z) = x(u_r Q + u_z G)$:  
-$$
-d = - \frac{\partial r / \partial u_z}{\partial r / \partial u_r} \mod n
-$$
+$$d = - \frac{\partial r / \partial u_z}{\partial r / \partial u_r} \mod n$$
 *Proof:*  
 - Linearization of increments: $\Delta r \approx \frac{\partial r}{\partial u_r} \Delta u_r + \frac{\partial r}{\partial u_z} \Delta u_z$  
 - From elliptic curve geometry: $R' = R + (\Delta u_r d + \Delta u_z)G$  
