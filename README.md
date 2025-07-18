@@ -161,9 +161,8 @@ ___
 [![Donate](https://img.shields.io/badge/Donate-Now-blue)](https://paypal.com/donate?hosted_button_id=YOUR_BUTTON_ID)
 [![Hardware Goal](https://img.shields.io/badge/Hardware-Mac_Studio_M4-important)](https://www.apple.com/mac-studio/)
 
-<div align="center">
-  <img src="https://example.com/topo-quantum-banner.jpg" alt="Topological Quantum Research" width="800">
-</div>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/07975654-8b81-48c2-95c5-36e0cac7b1e2" />
+
 
 ## 🔬 Our Groundbreaking Research
 
