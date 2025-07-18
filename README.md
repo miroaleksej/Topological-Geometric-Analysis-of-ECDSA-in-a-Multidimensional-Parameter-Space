@@ -189,13 +189,13 @@ vulnerable_txs = tqa.detect_vulnerable_signatures(
 report = tqa.generate_security_report(vulnerable_txs)
 ```
 
-## 🚀 Why We Need a Mac Studio M4 Ultra
+## 🚀 Why We Need a Mac Studio M4 Max
 
 To advance our research, we need the extraordinary computational power of the **Mac Studio M4 Max** with:
 
 - **128GB Unified Memory** - For massive quantum circuit simulations
 - **2TB SSD Storage** - To process blockchain datasets (1TB+)
-- **M4 Ultra Chip** - 24-core CPU, 76-core GPU, 32-core Neural Engine
+- **M4 Max Chip** - 24-core CPU, 76-core GPU, 32-core Neural Engine
 
 | Research Task | Current Hardware | With Mac Studio M4 | Speedup |
 |---------------|------------------|--------------------|---------|
