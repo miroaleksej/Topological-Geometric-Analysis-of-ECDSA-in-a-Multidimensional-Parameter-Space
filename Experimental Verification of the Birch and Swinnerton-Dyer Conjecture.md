@@ -1,4 +1,4 @@
-**##Program: Experimental Verification of the Birch and Swinnerton-Dyer Conjecture**
+**Program: Experimental Verification of the Birch and Swinnerton-Dyer Conjecture
 
 ```python
 from sage.all import EllipticCurve, QQ, proof
